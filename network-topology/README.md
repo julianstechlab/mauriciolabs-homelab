@@ -1,5 +1,9 @@
 # Network Topology
 
+<p align="center">
+  <img src="logical-topology.png" alt="Logical Topology" width="900">
+</p>
+
 ## VLANs
 
 | VLAN | Purpose | Subnet |
@@ -15,3 +19,5 @@
 - Netgear GS308E
 - Netgear Nighthawk AX5
 - Dell OptiPlex 7060 (Proxmox)
+
+
